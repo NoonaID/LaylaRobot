@@ -48,13 +48,13 @@ An example `config.py` file could be:
 from LaylaRobot.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 254318997  # your telegram ID
-    OWNER_USERNAME = "SonOfLars"  # your telegram username
+    OWNER_ID = 1996919880  # your telegram ID
+    OWNER_USERNAME = "Aleeva74"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
     USE_MESSAGE_DUMP = True
-    SUDO_USERS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    SUDO_USERS = [1996919880, 2029766932]  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
@@ -195,4 +195,4 @@ The bot is based on the original work done by [PaulSonOfLars](https://github.com
 
 
 
-## [OWNER HERO](http://t.me/HEROGAMERS1)
+## [OWNER Aleeva](http://t.me/Aleeva74)
